@@ -32,14 +32,14 @@ Los datos limpios se cargan en un repositorio de GitHub para mantener un registr
 
 ### 4. **Elementos a Mejorar / Futuras Mejoras:**
 - **Visualización de Datos**: Actualmente, no se han incluido visualizaciones en el proyecto, pero sería útil agregar gráficos para ilustrar las tendencias y comparaciones de los nutrientes a lo largo del tiempo o entre productos.
-- **Interactividad**: Se podría implementar una interfaz interactiva (por ejemplo, usando herramientas como `Plotly` o `Shiny`) para explorar los datos de manera más dinámica.
-- **Automatización de la Extracción**: Una futura mejora sería automatizar el proceso de extracción periódica de datos, para mantener el repositorio actualizado sin intervención manual.
+- **Automatización de la Extracción**: Una futura mejora sería automatizar el proceso de extracción periódica de datos, para mantener el repositorio actualizado sin intervención manual. Se planea utilizar airflow como orquestador.
 
 ## Requisitos
 
 - Python 3.x
 - Pandas
 - Requests
+- Selenium
 - BeautifulSoup4 (si se requiere scraping)
 - Git
 
