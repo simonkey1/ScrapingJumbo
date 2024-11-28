@@ -1,0 +1,97 @@
+[
+    {
+        "Tipo Producto": "pastas y salsas",
+        "Marca": "Malloa",
+        "Nombre Producto": "Salsa de Tomate Malloa Italiana 200 g 6 un.",
+        "Codigo Producto": "Código: 395904",
+        "Precio": "$3.900",
+        "Ingredientes": "Agua, Concentrado de tomate, Almidón de maíz modificado, Azúcar, Sal, Cebolla, Sorbato de potasio, Orégano, ácido cítrico, Ajo",
+        "Nutrientes": [
+            {
+                "Nutriente": "Energía (kCal)",
+                "Valor por 100g": "43",
+                "Valor por porción": "8.6"
+            },
+            {
+                "Nutriente": "Proteínas (g)",
+                "Valor por 100g": "1.2",
+                "Valor por porción": "0.2"
+            },
+            {
+                "Nutriente": "Grasas Totales (g)",
+                "Valor por 100g": "0.1",
+                "Valor por porción": "0"
+            },
+            {
+                "Nutriente": "Grasas Saturadas (g)",
+                "Valor por 100g": "0",
+                "Valor por porción": "0"
+            },
+            {
+                "Nutriente": "Hidratos de Carbono disponibles (g)",
+                "Valor por 100g": "9.2",
+                "Valor por porción": "1.8"
+            },
+            {
+                "Nutriente": "Azúcares totales (g)",
+                "Valor por 100g": "5.9",
+                "Valor por porción": "1.2"
+            },
+            {
+                "Nutriente": "Fibra (g)",
+                "Valor por 100g": "0.3",
+                "Valor por porción": "0.1"
+            },
+            {
+                "Nutriente": "Sodio (mg)",
+                "Valor por 100g": "298",
+                "Valor por porción": "59.6"
+            }
+        ]
+    },
+    {
+        "Tipo Producto": "pastas y salsas",
+        "Marca": "Talliani",
+        "Nombre Producto": "Spaghetti N°5 Talliani Al Huevo 400 g",
+        "Codigo Producto": "Código: 267564",
+        "Precio": "$1.350",
+        "Ingredientes": "Sémola de trigos duros seleccionados, Huevo, Niacina, Hierro (sulfato ferroso), Tiamina, Riboflavina, Gluten",
+        "Nutrientes": [
+            {
+                "Nutriente": "Energía (kCal)",
+                "Valor por 100g": "368",
+                "Valor por porción": "294.4"
+            },
+            {
+                "Nutriente": "Proteínas (g)",
+                "Valor por 100g": "13",
+                "Valor por porción": "10.4"
+            },
+            {
+                "Nutriente": "Grasas Totales (g)",
+                "Valor por 100g": "3.5",
+                "Valor por porción": "2.8"
+            },
+            {
+                "Nutriente": "Colesterol (mg)",
+                "Valor por 100g": "33",
+                "Valor por porción": "26.4"
+            },
+            {
+                "Nutriente": "Hidratos de Carbono disponibles (g)",
+                "Valor por 100g": "71",
+                "Valor por porción": "56.8"
+            },
+            {
+                "Nutriente": "Azúcares totales (g)",
+                "Valor por 100g": "4",
+                "Valor por porción": "3.2"
+            },
+            {
+                "Nutriente": "Sodio (mg)",
+                "Valor por 100g": "20",
+                "Valor por porción": "16"
+            }
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Configuraciones de entorno
+.env
+.DS_Store
+
+# Archivos específicos del sistema
+*.sqlite3

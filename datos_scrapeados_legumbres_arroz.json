@@ -1,0 +1,82 @@
+[
+    {
+        "Tipo Producto": "legumbres_arroz",
+        "Marca": "Miraflores",
+        "Nombre Producto": "Arroz Grado 1 Miraflores Grano Largo y Ancho 1 kg",
+        "Codigo Producto": "Código: 264577",
+        "Precio": "$2.890",
+        "Ingredientes": "Arroz grano largo ancho",
+        "Nutrientes": [
+            {
+                "Nutriente": "Energía (kCal)",
+                "Valor por 100g": "335",
+                "Valor por porción": "167.5"
+            },
+            {
+                "Nutriente": "Proteínas (g)",
+                "Valor por 100g": "6.7",
+                "Valor por porción": "3.4"
+            },
+            {
+                "Nutriente": "Grasas Totales (g)",
+                "Valor por 100g": "1.3",
+                "Valor por porción": "0.7"
+            },
+            {
+                "Nutriente": "Hidratos de Carbono disponibles (g)",
+                "Valor por 100g": "74",
+                "Valor por porción": "37"
+            },
+            {
+                "Nutriente": "Azúcares totales (g)",
+                "Valor por 100g": "0.4",
+                "Valor por porción": "0.2"
+            },
+            {
+                "Nutriente": "Sodio (mg)",
+                "Valor por 100g": "2",
+                "Valor por porción": "1"
+            }
+        ]
+    },
+    {
+        "Tipo Producto": "legumbres_arroz",
+        "Marca": "Banquete",
+        "Nombre Producto": "Arroz Grado 1 Banquete Premium Grano Largo y Ancho 1 kg",
+        "Codigo Producto": "Código: 264573",
+        "Precio": "$2.580",
+        "Ingredientes": "Arroz grano largo ancho",
+        "Nutrientes": [
+            {
+                "Nutriente": "Energía (kCal)",
+                "Valor por 100g": "325",
+                "Valor por porción": "162.5"
+            },
+            {
+                "Nutriente": "Proteínas (g)",
+                "Valor por 100g": "6.2",
+                "Valor por porción": "3.1"
+            },
+            {
+                "Nutriente": "Grasas Totales (g)",
+                "Valor por 100g": "0.8",
+                "Valor por porción": "0.4"
+            },
+            {
+                "Nutriente": "Hidratos de Carbono disponibles (g)",
+                "Valor por 100g": "73",
+                "Valor por porción": "36.5"
+            },
+            {
+                "Nutriente": "Azúcares totales (g)",
+                "Valor por 100g": "0.6",
+                "Valor por porción": "0.3"
+            },
+            {
+                "Nutriente": "Sodio (mg)",
+                "Valor por 100g": "1.2",
+                "Valor por porción": "0.6"
+            }
+        ]
+    }
+]
